@@ -1,0 +1,38 @@
+E:\MY SRC\WordCodeFormat\WordCodeFormat\bin\Debug\WordCodeFormat.dll
+E:\MY SRC\WordCodeFormat\WordCodeFormat\bin\Debug\WordCodeFormat.pdb
+E:\MY SRC\WordCodeFormat\WordCodeFormat\bin\Debug\WordCodeFormat.dll.manifest
+E:\MY SRC\WordCodeFormat\WordCodeFormat\bin\Debug\WordCodeFormat.vsto
+E:\MY SRC\WordCodeFormat\WordCodeFormat\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+E:\MY SRC\WordCodeFormat\WordCodeFormat\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.xml
+E:\MY SRC\WordCodeFormat\WordCodeFormat\obj\Debug\WordCodeFormat.csprojResolveAssemblyReference.cache
+E:\MY SRC\WordCodeFormat\WordCodeFormat\obj\Debug\WordCodeFormat.Properties.Resources.resources
+E:\MY SRC\WordCodeFormat\WordCodeFormat\obj\Debug\WordCodeFormat.Ribbon1.resources
+E:\MY SRC\WordCodeFormat\WordCodeFormat\obj\Debug\WordCodeFormat.csproj.GenerateResource.Cache
+E:\MY SRC\WordCodeFormat\WordCodeFormat\obj\Debug\WordCodeFormat.dll
+E:\MY SRC\WordCodeFormat\WordCodeFormat\obj\Debug\WordCodeFormat.pdb
+E:\MY SRC\WordCodeFormat\WordCodeFormat\obj\Debug\WordCodeFormat.UserControl1.resources
+E:\MYSRC\WordCodeFormat\WordCodeFormat\bin\Debug\WordCodeFormat.dll
+E:\MYSRC\WordCodeFormat\WordCodeFormat\bin\Debug\WordCodeFormat.pdb
+E:\MYSRC\WordCodeFormat\WordCodeFormat\bin\Debug\WordCodeFormat.dll.manifest
+E:\MYSRC\WordCodeFormat\WordCodeFormat\bin\Debug\WordCodeFormat.vsto
+E:\MYSRC\WordCodeFormat\WordCodeFormat\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+E:\MYSRC\WordCodeFormat\WordCodeFormat\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.xml
+E:\MYSRC\WordCodeFormat\WordCodeFormat\obj\Debug\WordCodeFormat.csprojResolveAssemblyReference.cache
+E:\MYSRC\WordCodeFormat\WordCodeFormat\obj\Debug\WordCodeFormat.Properties.Resources.resources
+E:\MYSRC\WordCodeFormat\WordCodeFormat\obj\Debug\WordCodeFormat.Ribbon1.resources
+E:\MYSRC\WordCodeFormat\WordCodeFormat\obj\Debug\WordCodeFormat.UserControl1.resources
+E:\MYSRC\WordCodeFormat\WordCodeFormat\obj\Debug\WordCodeFormat.csproj.GenerateResource.Cache
+E:\MYSRC\WordCodeFormat\WordCodeFormat\obj\Debug\WordCodeFormat.dll
+E:\MYSRC\WordCodeFormat\WordCodeFormat\obj\Debug\WordCodeFormat.pdb
+D:\SRCs\WordCodeFormat\WordCodeFormat\WordCodeFormat\bin\Debug\WordCodeFormat.dll
+D:\SRCs\WordCodeFormat\WordCodeFormat\WordCodeFormat\bin\Debug\WordCodeFormat.pdb
+D:\SRCs\WordCodeFormat\WordCodeFormat\WordCodeFormat\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+D:\SRCs\WordCodeFormat\WordCodeFormat\WordCodeFormat\obj\Debug\WordCodeFormat.csprojResolveAssemblyReference.cache
+D:\SRCs\WordCodeFormat\WordCodeFormat\WordCodeFormat\obj\Debug\WordCodeFormat.Properties.Resources.resources
+D:\SRCs\WordCodeFormat\WordCodeFormat\WordCodeFormat\obj\Debug\WordCodeFormat.Ribbon1.resources
+D:\SRCs\WordCodeFormat\WordCodeFormat\WordCodeFormat\obj\Debug\WordCodeFormat.UserControl1.resources
+D:\SRCs\WordCodeFormat\WordCodeFormat\WordCodeFormat\obj\Debug\WordCodeFormat.csproj.GenerateResource.Cache
+D:\SRCs\WordCodeFormat\WordCodeFormat\WordCodeFormat\obj\Debug\WordCodeFormat.dll
+D:\SRCs\WordCodeFormat\WordCodeFormat\WordCodeFormat\obj\Debug\WordCodeFormat.pdb
+D:\SRCs\WordCodeFormat\WordCodeFormat\WordCodeFormat\bin\Debug\WordCodeFormat.dll.manifest
+D:\SRCs\WordCodeFormat\WordCodeFormat\WordCodeFormat\bin\Debug\WordCodeFormat.vsto
