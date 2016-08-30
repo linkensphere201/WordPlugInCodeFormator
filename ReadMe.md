@@ -16,8 +16,8 @@ Demo
 ====
 When you run this project, a plug-in ribbon will be add.
 
-![the ribbon]()
-![here is a demo]()
+![the ribbon](https://github.com/nmter/WordPlugInCodeFormator/blob/master/ribbon.png?raw=true)
+![here is a demo](https://github.com/nmter/WordPlugInCodeFormator/blob/master/demo.png?raw=true)
 
 Usage  
 ====
